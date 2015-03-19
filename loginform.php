@@ -16,7 +16,7 @@
 	    <div id="showing_name"></div>
 	    <form action="login.php" method="post">
 	        <input class="usrnm"type="text" name="username" placeholder="Username">
-	        <input class="usrnm"type="text" name="password" placeholder="Password">
+	        <input class="usrnm"type="password" name="password" placeholder="Password">
 	        <button type="submit" id="usrlgn" class="btn">Login</button>
 	    </form>
 	</div>

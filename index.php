@@ -6,6 +6,7 @@
     if(isset($_SESSION['user'])) 
     {
         ?><a href="logout.php" class="right">Log Out</a><?php
+        
     }
     else 
     {
